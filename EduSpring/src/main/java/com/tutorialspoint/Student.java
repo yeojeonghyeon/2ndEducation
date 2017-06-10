@@ -9,6 +9,7 @@ public class Student {
    }
    public Integer getAge() {
 	  System.out.println("Age : " + age );
+	  System.out.println("Age : " + age );
       return age;
    }
    public void setName(String name) {
